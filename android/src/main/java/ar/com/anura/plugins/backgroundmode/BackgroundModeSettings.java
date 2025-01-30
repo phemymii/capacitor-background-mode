@@ -2,8 +2,8 @@ package ar.com.anura.plugins.backgroundmode;
 
 public class BackgroundModeSettings {
 
-    private String title = "App is on background mode";
-    private String text = "App will start faster";
+    private String title = "Downloading/uploading ongoing";
+    private String text = "Files are being downloaded/uploaded in the background";
     private String subText = "";
     private boolean bigText = false;
     private boolean resume = true;
